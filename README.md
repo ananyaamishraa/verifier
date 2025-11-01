@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # First, clone the repository:
 
-Run the command `git clone https://github.com/Agarwalvidu/verifier.git`  
+Run the command `git clone https://github.com/ananyaamishraa/verifier.git`  
   
 Navigate to the project directory:  `cd verifier`
 
